@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-[See documentation](https://rubydoc.info/juanmanuelramallo/syslog_parser)
+[See documentation](https://rubydoc.info/github/juanmanuelramallo/syslog_parser)
 
 ## Development
 
