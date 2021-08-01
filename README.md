@@ -3,7 +3,7 @@
 [![Gem Version](https://badge.fury.io/rb/syslog_parser.svg)](https://badge.fury.io/rb/syslog_parser)
 [![CI](https://github.com/juanmanuelramallo/syslog_parser/actions/workflows/main.yml/badge.svg)](https://github.com/juanmanuelramallo/syslog_parser/actions/workflows/main.yml)
 
-Bare-bones syslog parser dependency-free.
+Bare-bones & dependency-free syslog parser.
 
 ## Installation
 
